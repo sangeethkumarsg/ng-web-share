@@ -1,0 +1,10 @@
+{
+  "name": "ng-web-share",
+  "version": "0.0.1",
+  "author": "sangeethkumar.tvm.kpm@gmail.com",
+  "description": "This library helps to use native webshare framework in angular apps",
+  "peerDependencies": {
+    "@angular/common": "^8.2.14",
+    "@angular/core": "^8.2.14"
+  }
+}
