@@ -1,10 +1,24 @@
 {
   "name": "ng-web-share",
-  "version": "0.0.1",
-  "author": "sangeethkumar.tvm.kpm@gmail.com",
+  "version": "1.0.3",
+  "author": "Sangeeth Kumar S G <sangeethkumar.tvm.kpm@gmail.com>",
   "description": "This library helps to use native webshare framework in angular apps",
   "peerDependencies": {
     "@angular/common": "^8.2.14",
     "@angular/core": "^8.2.14"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sangeethkumarsg/ng-web-share.git"
+  },
+  "keywords": [
+    "Angular2",
+    "Angular4",
+    "Angular6",
+    "Angular",
+    "web-navigator-share",
+    "web-share-api",
+    "pwa-share"
+  ],
+  "license": "MIT"
 }
